@@ -1,0 +1,45 @@
+body{
+   background-color: blueviolet;
+   background-image: url(../img/wallpapersden.com_sung-jin-woo-anime-art_1600x900.jpg);
+   background-attachment: fixed;
+}
+.head .img{
+   width: 100%;
+   height: 100px;
+   background-color: transparent;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 250px;
+}
+.field .f{
+   display: flex;
+   justify-content: center;
+
+}
+.field{
+   width: 745px;
+   height: 48px;
+   background-color: transparent;
+   margin-left: 400px;
+}
+input{
+   width: 90%;
+   height: 48px;
+   border: none;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
+   font-size: 25px;
+   padding-left: 10px;
+}
+i{
+   width: 10%;
+   height: 35px;
+   background-color: white;
+   display: flex;
+   text-align: center;
+   padding-top: 15px;
+   border-top-right-radius: 20px;
+   border-bottom-right-radius: 20px;
+   font-size: 20px;
+}
